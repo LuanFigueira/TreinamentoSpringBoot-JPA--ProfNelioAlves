@@ -6,6 +6,4 @@ import LuanFigueira.TreinamentoSpringBootJPA.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 	
-	
-
 }
